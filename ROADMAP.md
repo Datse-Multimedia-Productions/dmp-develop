@@ -8,11 +8,17 @@ This is the roadmap for the main DMP Develop Project.   The following components
 * Users --- This will manage any of the user creation/deletion/modification issues.
 * Profile --- This will provide access to profile information for any user.
 * Time Tracking --- This tracks time for projects.  
+* Fun --- These are just some fun things to play with.
 
 The following componets we have some form in progress (note we only remove a component from "in progress" if it gets moved to "depricated", "reatired" or "obsolete"):
 
 * Base 
   * This is currently on GitHub and the current version is up to date.
   * It does not currently provide anything which allows seeing what other installed componets exist.
+* Users
+  * This is also on on GitHub.  
+  * Very little has been done here.  
+* Fun
+  * We have a little bit of work on this.  There is one component.   
 
 
