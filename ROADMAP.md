@@ -11,7 +11,6 @@ This is the roadmap for the main DMP Develop Project.   The following components
 * Time Tracking --- This tracks time for projects.
 * Project Management --- Provide the ability to manage projects (including itself).
 * Issue Tracking --- Provide the ability to track issues, primarilly within a project, but that might be something else.  
-=======
 * Time Tracking --- This tracks time for projects. 
 * Project Management --- Provide the ability to manage projects (including itself).
 * Issue Tracking --- Provide the ability to track issues, primarilly within a project, but that might be something else.  
