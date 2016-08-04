@@ -7,7 +7,6 @@ This is the roadmap for the main DMP Develop Project.   The following components
 * Privilages --- This will take care of anything which has any kind of privilage settings.
 * Users --- This will manage any of the user creation/deletion/modification issues.
 * Profile --- This will provide access to profile information for any user.
-<<<<<<< HEAD
 * Time Tracking --- This tracks time for projects.
 * Project Management --- Provide the ability to manage projects (including itself).
 * Issue Tracking --- Provide the ability to track issues, primarilly within a project, but that might be something else.  
@@ -15,7 +14,6 @@ This is the roadmap for the main DMP Develop Project.   The following components
 * Project Management --- Provide the ability to manage projects (including itself).
 * Issue Tracking --- Provide the ability to track issues, primarilly within a project, but that might be something else.  
 * Fun --- These are just some fun things to play with.
->>>>>>> 6b35ff33a694fed8539a579b6588a1ffa0dec9da
 
 The following componets we have some form in progress (note we only remove a component from "in progress" if it gets moved to "depricated", "reatired" or "obsolete"):
 
